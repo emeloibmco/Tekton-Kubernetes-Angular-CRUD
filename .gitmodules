@@ -1,0 +1,6 @@
+[submodule "Kubernetes-Tekton-FrontEnd-Angular"]
+	path = Kubernetes-Tekton-FrontEnd-Angular
+	url = https://github.com/emeloibmco/Kubernetes-Tekton-FrontEnd-Angular
+[submodule "Kubernetes-Tekton-Backend"]
+	path = Kubernetes-Tekton-Backend
+	url = https://github.com/emeloibmco/Kubernetes-Tekton-Backend
